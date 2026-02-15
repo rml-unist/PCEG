@@ -256,6 +256,8 @@ body {
 .results-carousel {
   overflow: hidden;
   padding: 0.5rem 0;
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .results-carousel .item {
